@@ -10,7 +10,7 @@ This GitHub repo includes code examples for the DocuSign Admin API, Click API, e
 This repo is a Python 3 application that supports the following authentication workflows:
 
 * Authentication with DocuSign via [Authorization Code Grant](https://developers.docusign.com/platform/auth/authcode).
-When the token expires, the user is asked to re-authenticate. The refresh token is not used.
+When the token expires, the user is asked to re-authenticate. The refresh token is not used..
 
 * Authentication with DocuSign via [JSON Web Token (JWT) Grant](https://developers.docusign.com/platform/auth/jwt/).
 When the token expires, it updates automatically.
