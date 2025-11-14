@@ -1,4 +1,4 @@
-﻿# Python Launcher Code Examples
+﻿# Python Launcher Code Examples 
 
 ### GitHub repo: [code-examples-python](./README.md)
 
