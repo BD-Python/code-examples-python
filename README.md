@@ -15,7 +15,7 @@ When the token expires, the user is asked to re-authenticate. The refresh token 
 * Authentication with DocuSign via [JSON Web Token (JWT) Grant](https://developers.docusign.com/platform/auth/jwt/).
 When the token expires, it updates automatically.
 
-## eSignature API -test
+## eSignature API
 
 For more information about the scopes used for obtaining authorization to use the eSignature API, see [Required scopes](https://developers.docusign.com/docs/esign-rest-api/esign101/auth#required-scopes).  
 
