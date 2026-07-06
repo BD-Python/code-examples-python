@@ -13,7 +13,7 @@ This repo is a Python 3 application that supports the following authentication w
 When the token expires, the user is asked to re-authenticate. The refresh token is not used.
 
 * Authentication with DocuSign via [JSON Web Token (JWT) Grant](https://developers.docusign.com/platform/auth/jwt/).
-When the token expires, it updates automatically.
+When the token expires, it updates automatically.  
 
 ## eSignature API
 
