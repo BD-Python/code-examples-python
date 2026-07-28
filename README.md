@@ -2,7 +2,7 @@
 
 ### GitHub repo: [code-examples-python](./README.md)
 
-This GitHub repo includes code examples for the DocuSign Admin API, Click API, eSignature REST API, Monitor API, and Rooms API. By default, the launcher will display the eSignature examples. To switch between API code examples, select "Choose API" in the top menu. 
+This GitHub repo includes code examples for the DocuSign Admin API, Click API, eSignature REST API, Monitor API, and Rooms API. By default, the launcher will display the eSignature examples. To switch between API code examples, select "Choose API" in the top menu.
 
 
 ## Introduction
